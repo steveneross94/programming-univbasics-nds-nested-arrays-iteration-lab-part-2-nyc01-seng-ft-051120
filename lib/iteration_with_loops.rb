@@ -10,9 +10,9 @@ while row_index < src.length do
     if src[row_index][element_index] < minimum_temp
       minimum_temp = src[row_index][element_index]
       min_in_nested_arrays << minimum_temp
-    end
+      end
     element_index += 1
-  end
+    end
   row_index +=1
   end
 end
