@@ -12,7 +12,5 @@ while row_index < src.length do
     element_index += 1
     end
     row_index += 1
-    end
   end
-end
 end
