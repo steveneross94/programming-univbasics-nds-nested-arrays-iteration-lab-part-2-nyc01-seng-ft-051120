@@ -15,4 +15,5 @@ while row_index < src.length do
     end
     row_index += 1
   end
-min_in_nested_arrays
+  min_in_nested_arrays
+end
